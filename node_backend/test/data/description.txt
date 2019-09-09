@@ -1,0 +1,5 @@
+http00.json: POST Test
+http01.json: GET Single printer Test
+http02.json: PUT Test
+http03.json: DELETE Test
+http04.json: GET Printers Test

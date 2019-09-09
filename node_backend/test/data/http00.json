@@ -1,0 +1,2 @@
+{"request": {"method": "POST", "url": "/printers", "headers": {"Content-Type": "application/json"}, "body": {"name": "hps", "printer_ip":"127.0.0.1","status":"0"}}, "response": {"status_code": 201, "body": {}, "headers": {}}}
+{"request": {"method": "POST", "url": "/printers", "headers": {"Content-Type": "application/json"}, "body": {"name": "hp", "printer_ip":"127.0.0.2","status":"0"}}, "response": {"status_code": 201, "body": {}, "headers": {}}}

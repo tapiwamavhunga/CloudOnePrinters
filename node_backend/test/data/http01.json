@@ -1,0 +1,1 @@
+{"request": {"method": "GET", "url": "/printers/1", "headers": {}, "body": {}}, "response": {"status_code": 201, "body": { "success":true, "data":{"id": 1, "name": "hps", "printer_ip": "127.0.0.1", "status":0}}, "headers": {"Content-Type": "application/json"}}}
